@@ -8,4 +8,4 @@ Analytics | Machine Learning | Python  |  Pandas  |  Scikitlearn  |  Pytorch  | 
 
 - Main github: https://github.com/tiagogiraldo
 
-- Master degree github: https://github.com/sagiralde
+- Postgraduate degree github: https://github.com/sagiralde
