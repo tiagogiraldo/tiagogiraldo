@@ -6,5 +6,6 @@ Skills:
 
 Analytics | Machine Learning | Python  |  Pandas  |  Scikitlearn  |  Pytorch  |  Pyspark  | Cypher  |  SQL  |  Javascript  | Nestjs  |  React | Nextjs
 
-Main github: https://github.com/tiagogiraldo
-Master degree github: https://github.com/sagiralde
+- Main github: https://github.com/tiagogiraldo
+
+- Master degree github: https://github.com/sagiralde
