@@ -10,6 +10,8 @@ Analytics | Machine Learning | Python  |  Pandas  |  Scikitlearn  |  Pytorch  | 
 
 - Postgraduate degree github: https://github.com/sagiralde
 
-linkedin: www.linkedin.com/in/santiagogiraldoe
+Linkedin: www.linkedin.com/in/santiagogiraldoe
+
+Portfolio: https://tiagogiraldo.vercel.app/
 
 Contact: tiagogiraldoe@gmail.com
